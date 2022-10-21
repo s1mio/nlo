@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(to right, rgb(98, 227, 197) 10%, white );
+}
+.pushbar_main_content{
+    color: blueviolet;
+}
+.pushbar_main_content button{
+    background-color: cornflowerblue;
+}
+.opened{
+    background-image: url(./WhatsApp\ Image\ 2022-10-12\ at\ 21.11.13\ \(1\).jpeg);
+    background-size: contain;
+}
+.content{
+    color: white;
+}
